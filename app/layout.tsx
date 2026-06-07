@@ -3,7 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 import { LangProvider } from "../components/i18n";
 
-const GA_ID = "G-PLACEHOLDER4";
+const GA_ID = "G-TQNBX6NP3S";
 
 export const metadata: Metadata = {
   title: "Gerenciador de Módulos — 88 Starlings",
